@@ -14,3 +14,4 @@ for some popular binary files formats, like PE/ELF/DWARF/PDB... You open a binar
 browser-like manner, following hyperlinks.
 
 
+![image info](./screen.png)
